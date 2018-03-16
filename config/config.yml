@@ -1,0 +1,3 @@
+parameters:
+    twig_templates: '/public/view'
+    twig_cache: '/var/cache'

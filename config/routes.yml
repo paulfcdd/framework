@@ -1,0 +1,7 @@
+index:
+    path: /
+    defaults: { _controller: 'Controller\AppController::indexAction'}
+
+test:
+    path: /test/{id}
+    defaults: { _controller: 'Controller\AppController::testAction'}
